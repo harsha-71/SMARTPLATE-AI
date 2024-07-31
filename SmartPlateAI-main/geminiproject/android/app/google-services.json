@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43579719411",
+    "project_id": "recipeapp-e0411",
+    "storage_bucket": "recipeapp-e0411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43579719411:android:2a9b11e7326c1c41fb0186",
+        "android_client_info": {
+          "package_name": "com.example.geminiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8m-DxNTD0NE4L_qR0--EsnkurjzAc7cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
